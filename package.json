@@ -9,6 +9,9 @@
   "author": "Igor Mykhaylyuk <igor_mykhaylyuk@epam.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "morphism": "^1.12.1",
+    "mysql2": "^1.7.0",
+    "newrelic": "^5.11.0"
   }
 }
